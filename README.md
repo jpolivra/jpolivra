@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center"
   <samp>
-    <a href="https://www.google.com/">me</a> .
-    <a href="https://www.google.com/">blog</a> 
+    <a href=">https://jpolivra-me.vercel.app/">me</a> .
+    <a href=">https://jpolivra-me.vercel.app/">blog</a> 
   </samp>
 </p>
